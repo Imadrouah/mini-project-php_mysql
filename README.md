@@ -1,6 +1,6 @@
 # mini-project-php_mysql
 
-# GUIDE :shipit: :
+# <center>GUIDE :shipit:</center>: 
 
 To try this project, clone this repository to your Computer,
 start a php and mysql server(exp: Xampp)
