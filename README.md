@@ -1,7 +1,6 @@
 # mini-project-php_mysql
 
-# <center>GUIDE :shipit:</center>: 
-
+<h1 align="center">GUIDE :shipit:</h1>
 To try this project, clone this repository to your Computer,
 start a php and mysql server(exp: Xampp)
 with the username **"root"** and a connection with no password make a database called **"mydb"**.
