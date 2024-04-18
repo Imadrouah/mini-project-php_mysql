@@ -1,9 +1,10 @@
 # mini-project-php_mysql
 
-<h1 align="center">GUIDE :shipit:</h1>
+# GUIDE <span align="center">:shipit:</span>
+
 To try this project, clone this repository to your Computer,
 start a php and mysql server(exp: Xampp)
 with the username **"root"** and a connection with no password make a database called **"mydb"**.
 
 > [!NOTE]
-> you can change all of this in the connection [file](db.php)
+> You can change data connection(pass, username, db name) in the connection [file](db.php)
