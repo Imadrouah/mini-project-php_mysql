@@ -13,7 +13,7 @@ include("db.php");
 
 <body>
 
-    <form action="project.php" method="post">
+    <form action="index.php" method="post">
         <div class="ft">
             <div class="search">
                 search:

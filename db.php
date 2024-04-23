@@ -17,7 +17,7 @@ try {
 }
 
 try {
-    $sql = "CREATE TABLE us (
+    $sql = "CREATE TABLE IF NOT EXISTS us (
         id int NOT NULL PRIMARY KEY AUTO_INCREMENT,
         user varchar(25) NOT NULL,
         reg datetime NOT NULL DEFAULT current_timestamp()
